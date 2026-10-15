@@ -1,4 +1,4 @@
-# Bond option pricing
+# Convertible and Callable Bonds
 
 Pricing the option inside three real bonds with free data, as of 14 October 2026. Companion code to the YouTube video on convertible, callable and putable bonds.
 
